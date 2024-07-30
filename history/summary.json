@@ -1,20 +1,20 @@
 [
   {
-    "name": "Kijk op Bodegraven-Reeuwijk",
-    "url": "https:/www.kobr.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "kijk-op-bodegraven-reeuwijk",
+    "name": "Kijk op Bodegraven-Reeuwijk | www.kobr.nl",
+    "url": "https://www.kobr.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/www.kobr.nl.ico",
+    "slug": "kijk-op-bodegraven-reeuwijk-www-kobr-nl",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 679,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   }
 ]
