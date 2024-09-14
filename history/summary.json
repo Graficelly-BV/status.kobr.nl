@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kobr.nl.ico",
     "slug": "kijk-op-bodegraven-reeuwijk",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1056,
-    "timeDay": 1003,
-    "timeWeek": 980,
-    "timeMonth": 1022,
-    "timeYear": 1056,
+    "uptimeYear": "99.97%",
+    "time": 1055,
+    "timeDay": 1013,
+    "timeWeek": 995,
+    "timeMonth": 1015,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2024-08-09": 23
     }
