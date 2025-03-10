@@ -1,7 +1,7 @@
 url: https://www.kobr.nl
-status: up
-code: 200
-responseTime: 813
-lastUpdated: 2025-03-10T23:13:41.581Z
+status: down
+code: 504
+responseTime: 4205
+lastUpdated: 2025-03-10T23:19:01.720Z
 startTime: 2024-07-30T13:53:38.565Z
 generator: Upptime <https://github.com/upptime/upptime>
